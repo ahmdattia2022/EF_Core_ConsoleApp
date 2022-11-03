@@ -1,1 +1,1 @@
-# EF_Core_ConsoleApp
+CRUD operations and simple transactions example
